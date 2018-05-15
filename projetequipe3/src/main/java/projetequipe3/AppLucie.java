@@ -8,6 +8,8 @@ public class AppLucie {
 
 		System.out.println("test de modif sur ma branche");
 
+		System.out.println("ouuuuh la belle branche");
+
 	}
 
 }
