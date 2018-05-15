@@ -5,7 +5,7 @@ public class AppLucie {
 	public static void main(String[] args) {
 
 
-		System.out.println("Ceci est un test");
+		System.out.println("Ceci est un deuxième test");
 
 	}
 
