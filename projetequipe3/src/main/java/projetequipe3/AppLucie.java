@@ -6,6 +6,7 @@ public class AppLucie {
 
 
 		System.out.println("Ceci est un test");
+		System.out.println("goku");
 
 	}
 
