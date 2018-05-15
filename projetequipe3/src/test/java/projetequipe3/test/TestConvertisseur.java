@@ -2,6 +2,7 @@ package projetequipe3.test;
 
 import org.junit.Assert;
 import org.junit.Before;
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 
@@ -9,10 +10,11 @@ import projetequipe3.Convertisseur;
 
 public class TestConvertisseur {
 	
-	private Convertisseur convertisseur;
+	private static Convertisseur convertisseur;
 	
-	@Before
-	public void init() {
+	@BeforeClass
+	public static void init() {
+		System.out.println("méthode init appelée");
 		convertisseur = new Convertisseur();
 	}
 	
