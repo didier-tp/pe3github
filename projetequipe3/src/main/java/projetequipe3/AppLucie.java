@@ -10,6 +10,8 @@ public class AppLucie {
 
 		System.out.println("ouuuuh la belle branche");
 
+		System.out.println("tu veux venir sur ma branche ??");
+
 	}
 
 }
