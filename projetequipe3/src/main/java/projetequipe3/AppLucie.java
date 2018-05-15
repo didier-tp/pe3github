@@ -4,8 +4,7 @@ public class AppLucie {
 
 	public static void main(String[] args) {
 
-
-		System.out.println("Ceci est un deuxième test");
+		System.out.println("création d'une nouvelle branche devLucie");
 
 	}
 
