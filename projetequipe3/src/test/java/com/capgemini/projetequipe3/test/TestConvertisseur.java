@@ -1,10 +1,10 @@
-package projetequipe3.test;
+package com.capgemini.projetequipe3.test;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import projetequipe3.Convertisseur;
+import com.capgemini.projetequipe3.Convertisseur;
 
 /*
  * toutes les classes dont le nom commence ou se termine par "test"

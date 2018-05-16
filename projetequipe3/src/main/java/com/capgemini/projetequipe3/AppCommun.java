@@ -1,4 +1,4 @@
-package projetequipe3;
+package com.capgemini.projetequipe3;
 
 public class AppCommun {
 

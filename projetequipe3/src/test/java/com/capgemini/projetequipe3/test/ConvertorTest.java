@@ -1,10 +1,11 @@
-package pe3.test;
+package com.capgemini.projetequipe3.test;
 
 import org.junit.Assert;
 //import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import projetequipe3.Convertisseur;
+
+import com.capgemini.projetequipe3.Convertisseur;
 
 //@Test et @Before necessite <dependency> junit dans pom.xml
 /*
