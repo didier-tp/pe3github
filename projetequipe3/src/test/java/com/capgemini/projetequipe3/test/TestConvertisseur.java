@@ -23,14 +23,14 @@ public class TestConvertisseur {
 	@Test
 	public void testEuroToFranc() {
 		double montantEnFranc = convertisseur.euroToFranc(15.0);
-		Assert.assertEquals(montantEnFranc, 98.0, 2.0);
+		Assert.assertEquals(98.0, montantEnFranc, 2.0);
 		
 	}
 	
 	@Test
 	public void testFrancToEuro() {
 		double montantEnEuro = convertisseur.francToEuro(98.0);
-		Assert.assertEquals(montantEnEuro, 15.0, 2.0);
+		Assert.assertEquals(15.0, montantEnEuro, 2.0);
 		
 	}
 
