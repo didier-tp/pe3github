@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.capgemini</groupId>
   <artifactId>projetequipe3</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   
   <parent>
 	<groupId>com.capgemini</groupId>
 	<artifactId>pe3github</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
   </parent>
   
    <properties>
