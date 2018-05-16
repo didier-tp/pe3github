@@ -25,13 +25,13 @@ public class ConvertorTest {
 	@Test
 	public void testEuroToFranc() {
 		double sommeEnFranc = convertisseur.euroToFranc(15);//montantEnEuro * 6.55957;
-		Assert.assertEquals(sommeEnFranc, 98.0, 2.0);
+		Assert.assertEquals(98.0, sommeEnFranc, 2.0);
 	}
 	
 	@Test
 	public void testFrancToEuro() {
 		double sommeEnEuro = convertisseur.francToEuro(99);//montantEnFranc / 6.55957;
-		Assert.assertEquals(sommeEnEuro, 15.0, 0.5);
+		Assert.assertEquals(15.0, sommeEnEuro, 0.5);
 	}
 
 }
