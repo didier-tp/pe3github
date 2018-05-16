@@ -1,0 +1,8 @@
+2018-05-16 12:38:39,276 INFO main com.capgemini.projetequipe3.AppLucie - création d'une nouvelle branche devLucie
+2018-05-16 12:38:39,276 DEBUG main com.capgemini.projetequipe3.AppLucie - test de modif sur ma branche
+2018-05-16 12:38:39,276 INFO main com.capgemini.projetequipe3.AppLucie - ouuuuh la belle branche
+2018-05-16 12:38:39,276 INFO main com.capgemini.projetequipe3.AppLucie - tu veux venir sur ma branche ??
+2018-05-16 12:44:52,736 INFO main com.capgemini.projetequipe3.AppLucie - création d'une nouvelle branche devLucie
+2018-05-16 12:44:52,736 DEBUG main com.capgemini.projetequipe3.AppLucie - test de modif sur ma branche
+2018-05-16 12:44:52,736 INFO main com.capgemini.projetequipe3.AppLucie - ouuuuh la belle branche
+2018-05-16 12:44:52,736 INFO main com.capgemini.projetequipe3.AppLucie - tu veux venir sur ma branche ??
