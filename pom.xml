@@ -11,6 +11,13 @@
      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
+  <scm>
+     <connection>scm:git:https://github.com/didier-tp/pe3github</connection>
+     <developerConnection>scm:git:https://github.com/didier-tp/pe3github</developerConnection>
+     <tag>HEAD</tag>
+     <url>https://github.com/didier-tp/pe3github</url>
+  </scm>
+  
  <modules>
            <module>projetequipe3</module>
 	  <!-- <module>....</module> -->
