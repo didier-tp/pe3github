@@ -1,13 +1,15 @@
 package projetequipe3.test;
 
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-
 import projetequipe3.Convertisseur;
 
+/*
+ * toutes les classes dont le nom commence ou se termine par "test"
+ * sont lancées automatiquement par maven (package ou install)
+ */
 public class TestConvertisseur {
 	
 	private static Convertisseur convertisseur;
